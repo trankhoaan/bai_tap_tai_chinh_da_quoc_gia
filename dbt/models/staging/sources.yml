@@ -1,0 +1,9 @@
+sources:
+  - name: postgres
+    schema: public
+    tables:
+      - name: raw_balance_sheet
+      - name: raw_cash_flow
+      - name: raw_fundamental
+      - name: raw_income_statement
+      - name: stocks_list

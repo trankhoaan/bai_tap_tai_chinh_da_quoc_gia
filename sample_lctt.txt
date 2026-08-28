@@ -1,0 +1,1302 @@
+{
+    "isSuccess": true,
+    "value": {
+        "templace": [
+            {
+                "code": "HDKD",
+                "name": "Lưu chuyển tiền từ ĐH kinh doanh",
+                "number": 1,
+                "data": [
+                    {
+                        "lever": 1,
+                        "number": 2,
+                        "code": "HDKD_2",
+                        "name": "1. Lợi nhuận trước thuế ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 3,
+                        "code": "HDKD_3",
+                        "name": "2. Điều chỉnh cho các khoản",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 4,
+                        "code": "HDKD_4",
+                        "name": "- Khấu hao TSCĐ và BĐSĐT ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 5,
+                        "code": "HDKD_5",
+                        "name": "- Các khoản dự phòng ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 6,
+                        "code": "HDKD_6",
+                        "name": "- Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 7,
+                        "code": "HDKD_7",
+                        "name": "- Lãi, lỗ từ hoạt động đầu tư ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 8,
+                        "code": "HDKD_8",
+                        "name": "- Chi phí lãi vay ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 9,
+                        "code": "HDKD_9",
+                        "name": "- Các khoản điều chỉnh khác ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 10,
+                        "code": "HDKD_10",
+                        "name": "3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 11,
+                        "code": "HDKD_11",
+                        "name": "- Tăng, giảm các khoản phải thu ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 12,
+                        "code": "HDKD_12",
+                        "name": "- Tăng, giảm hàng tồn kho ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 13,
+                        "code": "HDKD_13",
+                        "name": "- Tăng, giảm các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp) ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 14,
+                        "code": "HDKD_14",
+                        "name": "- Tăng, giảm chi phí trả trước ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 15,
+                        "code": "HDKD_15",
+                        "name": "- Tăng, giảm chứng khoán kinh doanh ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 16,
+                        "code": "HDKD_16",
+                        "name": "- Tiền lãi vay đã trả ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 17,
+                        "code": "HDKD_17",
+                        "name": "- Thuế thu nhập doanh nghiệp đã nộp ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 18,
+                        "code": "HDKD_18",
+                        "name": "- Tiền thu khác từ hoạt động kinh doanh ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 19,
+                        "code": "HDKD_19",
+                        "name": "- Tiền chi khác cho hoạt động kinh doanh ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 20,
+                        "code": "HDKD_20",
+                        "name": "Lưu chuyển tiền thuần từ hoạt động kinh doanh ",
+                        "static": false
+                    }
+                ]
+            },
+            {
+                "code": "HDDT",
+                "name": "Lưu chuyển tiền từ HĐ đầu tư",
+                "number": 21,
+                "data": [
+                    {
+                        "lever": 1,
+                        "number": 22,
+                        "code": "HDDT_22",
+                        "name": "1.Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 23,
+                        "code": "HDDT_23",
+                        "name": "2.Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 24,
+                        "code": "HDDT_24",
+                        "name": "3.Tiền chi cho vay, mua các công cụ nợ của đơn vị khác ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 25,
+                        "code": "HDDT_25",
+                        "name": "4.Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 26,
+                        "code": "HDDT_26",
+                        "name": "5.Tiền chi đầu tư góp vốn vào đơn vị khác ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 27,
+                        "code": "HDDT_27",
+                        "name": "6.Tiền thu hồi đầu tư góp vốn vào đơn vị khác ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 28,
+                        "code": "HDDT_28",
+                        "name": "7.Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 29,
+                        "code": "HDDT_29",
+                        "name": "Lưu chuyển tiền thuần từ hoạt động đầu tư ",
+                        "static": false
+                    }
+                ]
+            },
+            {
+                "code": "HDTC",
+                "name": "Lưu chuyển tiền từ HĐ tài chính",
+                "number": 30,
+                "data": [
+                    {
+                        "lever": 2,
+                        "number": 31,
+                        "code": "HDTC_31",
+                        "name": "1.Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 32,
+                        "code": "HDTC_32",
+                        "name": "2.Tiền trả lại vón góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 33,
+                        "code": "HDTC_33",
+                        "name": "3.Tiền thu từ đi vay ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 34,
+                        "code": "HDTC_34",
+                        "name": "4.Tiền chi trả nợ gốc vay ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 35,
+                        "code": "HDTC_35",
+                        "name": "5.Tiền chi trả nợ gốc thuê tài chính ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 36,
+                        "code": "HDTC_36",
+                        "name": "6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu ",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 37,
+                        "code": "HDTC_37",
+                        "name": "7. Tiền thu từ vốn góp của cổ đông không kiểm soát ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 38,
+                        "code": "HDTC_38",
+                        "name": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 39,
+                        "code": "HDTC_39",
+                        "name": "Lưu chuyển tiền thuần trong kỳ (50 = 20+30+40) ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 40,
+                        "code": "HDTC_40",
+                        "name": "Tiền và tương đương tiền đầu kỳ (60)",
+                        "static": false
+                    },
+                    {
+                        "lever": 2,
+                        "number": 41,
+                        "code": "HDTC_41",
+                        "name": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+                        "static": false
+                    },
+                    {
+                        "lever": 1,
+                        "number": 42,
+                        "code": "HDTC_42",
+                        "name": "Tiền và tương đương tiền cuối kỳ (70 = 50+60+61) ",
+                        "static": false
+                    }
+                ]
+            }
+        ],
+        "count": 20,
+        "unit": null,
+        "listType": [
+            {
+                "name": "Lưu chuyển tiền từ ĐH kinh doanh",
+                "code": "HDKD"
+            },
+            {
+                "name": "Lưu chuyển tiền từ HĐ đầu tư",
+                "code": "HDDT"
+            },
+            {
+                "name": "Lưu chuyển tiền từ HĐ tài chính",
+                "code": "HDTC"
+            }
+        ],
+        "type": null,
+        "data": [
+            {
+                "code": "HDKD",
+                "name": "Lưu chuyển tiền từ ĐH kinh doanh",
+                "number": 1,
+                "data": [
+                    {
+                        "symbol": "FPT",
+                        "year": 2025,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2025",
+                        "data": [
+                            {
+                                "code": "HDKD_1",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_2",
+                                "value": 13043632833797,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_3",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_4",
+                                "value": 2914178360732,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_5",
+                                "value": 651406282654,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_6",
+                                "value": -27776460391,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_7",
+                                "value": -2575840046010,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_8",
+                                "value": 809759601156,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_9",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_10",
+                                "value": 14815360571938,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_11",
+                                "value": -2874821969471,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_12",
+                                "value": -335071616492,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_13",
+                                "value": 2556427255416,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_14",
+                                "value": -595604484389,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_15",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_16",
+                                "value": -812474254533,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_17",
+                                "value": -2238070257305,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_18",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_19",
+                                "value": -379701329253,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_20",
+                                "value": 10136043915911,
+                                "static": false
+                            }
+                        ]
+                    },
+                    {
+                        "symbol": "FPT",
+                        "year": 2024,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2024",
+                        "data": [
+                            {
+                                "code": "HDKD_1",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_2",
+                                "value": 11069666417819,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_3",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_4",
+                                "value": 2535298475665,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_5",
+                                "value": 1148951390915,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_6",
+                                "value": 46311803197,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_7",
+                                "value": -1725022480893,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_8",
+                                "value": 551639361786,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_9",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_10",
+                                "value": 13626844968489,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_11",
+                                "value": -1913663012505,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_12",
+                                "value": -265267561842,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_13",
+                                "value": 2875571263689,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_14",
+                                "value": -393964502357,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_15",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_16",
+                                "value": -1209921507569,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_17",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_18",
+                                "value": -408667711961,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_19",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_20",
+                                "value": 11703777188868,
+                                "static": false
+                            }
+                        ]
+                    },
+                    {
+                        "symbol": "FPT",
+                        "year": 2023,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2023",
+                        "data": [
+                            {
+                                "code": "HDKD_1",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_2",
+                                "value": 9203006098570,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_3",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_4",
+                                "value": 2286514158688,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_5",
+                                "value": 677928749053,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_6",
+                                "value": -34070358211,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_7",
+                                "value": -1976268355482,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_8",
+                                "value": 832648611261,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_9",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_10",
+                                "value": 10989758903879,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_11",
+                                "value": -1163209212196,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_12",
+                                "value": 396161114891,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_13",
+                                "value": 1380255770889,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_14",
+                                "value": 65247409505,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_15",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_16",
+                                "value": -832038375945,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_17",
+                                "value": -971344830054,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_18",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_19",
+                                "value": -347735082564,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_20",
+                                "value": 9517095698405,
+                                "static": false
+                            }
+                        ]
+                    },
+                    {
+                        "symbol": "FPT",
+                        "year": 2022,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2022",
+                        "data": [
+                            {
+                                "code": "HDKD_1",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_2",
+                                "value": 7662282959880,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_3",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_4",
+                                "value": 1833064499128,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_5",
+                                "value": 880253740252,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_6",
+                                "value": 7652847077,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_7",
+                                "value": -1986715685147,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_8",
+                                "value": 645725556308,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_9",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_10",
+                                "value": 9042263917498,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_11",
+                                "value": -1949023327296,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_12",
+                                "value": -497802711008,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_13",
+                                "value": 1299834862339,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_14",
+                                "value": -633951413583,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_15",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_16",
+                                "value": -635688969538,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_17",
+                                "value": -1221846691729,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_18",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_19",
+                                "value": -349953909983,
+                                "static": false
+                            },
+                            {
+                                "code": "HDKD_20",
+                                "value": 5053831756700,
+                                "static": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "code": "HDDT",
+                "name": "Lưu chuyển tiền từ HĐ đầu tư",
+                "number": 21,
+                "data": [
+                    {
+                        "symbol": "FPT",
+                        "year": 2025,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2025",
+                        "data": [
+                            {
+                                "code": "HDDT_21",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_22",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_23",
+                                "value": 7314216719,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_24",
+                                "value": -57012522823806,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_25",
+                                "value": 49164792969282,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_26",
+                                "value": -710700052777,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_27",
+                                "value": 23532256656,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_28",
+                                "value": 2000759192153,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_29",
+                                "value": -11624743591629,
+                                "static": false
+                            }
+                        ]
+                    },
+                    {
+                        "symbol": "FPT",
+                        "year": 2024,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2024",
+                        "data": [
+                            {
+                                "code": "HDDT_21",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_22",
+                                "value": -3275312325702,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_23",
+                                "value": 14227383215,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_24",
+                                "value": -41956569113369,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_25",
+                                "value": 36283758374630,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_26",
+                                "value": -1106193484800,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_27",
+                                "value": 48102486048,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_28",
+                                "value": 1530174506877,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_29",
+                                "value": -8461812173101,
+                                "static": false
+                            }
+                        ]
+                    },
+                    {
+                        "symbol": "FPT",
+                        "year": 2023,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2023",
+                        "data": [
+                            {
+                                "code": "HDDT_21",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_22",
+                                "value": -3978252082224,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_23",
+                                "value": 29269655015,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_24",
+                                "value": -33536189070356,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_25",
+                                "value": 30458251083042,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_26",
+                                "value": -1753619182518,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_27",
+                                "value": 94939906000,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_28",
+                                "value": 2137225525330,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_29",
+                                "value": -6548374165711,
+                                "static": false
+                            }
+                        ]
+                    },
+                    {
+                        "symbol": "FPT",
+                        "year": 2022,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2022",
+                        "data": [
+                            {
+                                "code": "HDDT_21",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_22",
+                                "value": -3215243200871,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_23",
+                                "value": 5662030028,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_24",
+                                "value": -32995035947486,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_25",
+                                "value": 40669116046728,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_26",
+                                "value": -557291900594,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_27",
+                                "value": 56400094000,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_28",
+                                "value": 1793624815520,
+                                "static": false
+                            },
+                            {
+                                "code": "HDDT_29",
+                                "value": 5757231937325,
+                                "static": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "code": "HDTC",
+                "name": "Lưu chuyển tiền từ HĐ tài chính",
+                "number": 30,
+                "data": [
+                    {
+                        "symbol": "FPT",
+                        "year": 2025,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2025",
+                        "data": [
+                            {
+                                "code": "HDTC_30",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_31",
+                                "value": 1196235184778,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_32",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_33",
+                                "value": 43070812885074,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_34",
+                                "value": -36890984827601,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_35",
+                                "value": -986795056,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_36",
+                                "value": -4573753577663,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_37",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_38",
+                                "value": 2801322869532,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_39",
+                                "value": 1312623193814,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_40",
+                                "value": 9315440438884,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_41",
+                                "value": -105957902706,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_42",
+                                "value": 10522105729992,
+                                "static": false
+                            }
+                        ]
+                    },
+                    {
+                        "symbol": "FPT",
+                        "year": 2024,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2024",
+                        "data": [
+                            {
+                                "code": "HDTC_30",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_31",
+                                "value": 163342989874,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_32",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_33",
+                                "value": 30946282706201,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_34",
+                                "value": -30013226682923,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_35",
+                                "value": -2305346865,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_36",
+                                "value": -3291859792121,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_37",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_38",
+                                "value": -2197766125834,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_39",
+                                "value": 1044198889933,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_40",
+                                "value": 8279156683221,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_41",
+                                "value": -7915134270,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_42",
+                                "value": 9315440438884,
+                                "static": false
+                            }
+                        ]
+                    },
+                    {
+                        "symbol": "FPT",
+                        "year": 2023,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2023",
+                        "data": [
+                            {
+                                "code": "HDTC_30",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_31",
+                                "value": 73050500000,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_32",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_33",
+                                "value": 34271246237260,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_34",
+                                "value": -32551882452709,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_35",
+                                "value": -30169775111,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_36",
+                                "value": -2930628448135,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_37",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_38",
+                                "value": -1168383938695,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_39",
+                                "value": 1800337593999,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_40",
+                                "value": 6440177174322,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_41",
+                                "value": 38641914900,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_42",
+                                "value": 8279156683221,
+                                "static": false
+                            }
+                        ]
+                    },
+                    {
+                        "symbol": "FPT",
+                        "year": 2022,
+                        "quater": 0,
+                        "type": "HK",
+                        "content": "Đã kiểm toán",
+                        "time": "2022",
+                        "data": [
+                            {
+                                "code": "HDTC_30",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_31",
+                                "value": 77028689275,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_32",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_33",
+                                "value": 28120228984733,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_34",
+                                "value": -35740054948912,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_35",
+                                "value": -8376145424,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_36",
+                                "value": -2222134795995,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_37",
+                                "value": 0,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_38",
+                                "value": -9773308216323,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_39",
+                                "value": 1037755477702,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_40",
+                                "value": 5417845293242,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_41",
+                                "value": -15423596622,
+                                "static": false
+                            },
+                            {
+                                "code": "HDTC_42",
+                                "value": 6440177174322,
+                                "static": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "errors": []
+}

@@ -1,0 +1,1 @@
+{"Data":{"Symbol":"FPT","San":"HOSE","Nganh":"Dịch vụ công nghệ thông tin","NgayGDDauTien":"13/12/2006","GiaDongCuaNGDDT":400,"VolumeStartDate":60810230,"VDL":17035071210000,"KLCPNY":1714326422,"KLCPLH":1714326422,"CPQuy":0,"CPPhoThong":0,"CPUuDai":0},"Message":null,"Success":true}

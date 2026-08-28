@@ -1,0 +1,35 @@
+name: 'btnhom_dbt'
+version: '1.0.0'
+config-version: 2
+
+profile: 'btnhom_dbt'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+seeds:
+  btnhom_dbt:
+    dim_balance_sheet_schema:
+      +column_types:
+        item_code: varchar(20)
+    dim_cash_flow_schema:
+      +column_types:
+        item_code: varchar(20)
+    dim_income_statement_schema:
+      +column_types:
+        item_code: varchar(20)
+
+models:
+  btnhom_dbt:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

@@ -1,0 +1,134 @@
+item_code,item_name,level,order_num,section_code,section_name
+100,A. TÀI SẢN NGẮN HẠN,1,2,TN,Tài sản
+110,I. Tiền và các khoản tương đương tiền,1,3,TN,Tài sản
+111,1. Tiền,2,4,TN,Tài sản
+112,2. Các khoản tương đương tiền,2,5,TN,Tài sản
+120,II. Đầu tư tài chính ngắn hạn,1,6,TN,Tài sản
+121,1. Chứng khoán kinh doanh,2,7,TN,Tài sản
+122,2. Dự phòng giảm giá chứng khoán kinh doanh (*),2,8,TN,Tài sản
+123,3. Đầu tư nắm giữ đến ngày đáo hạn,2,9,TN,Tài sản
+124,4. Dự phòng đầu tư nắm giữ đến ngày đáo hạn ngắn hạn,2,10,TN,Tài sản
+125,5. Đầu tư ngắn hạn khác,2,11,TN,Tài sản
+126,6. Dự phòng tổn thất các khoản đầu tư ngăn hạn khác (*),2,12,TN,Tài sản
+130,III. Các khoản phải thu ngắn hạn,1,13,TN,Tài sản
+131,1. Phải thu ngắn hạn của khách hàng,2,14,TN,Tài sản
+132,2. Trả trước cho người bán ngắn hạn,2,15,TN,Tài sản
+133,3. Phải thu nội bộ ngắn hạn,2,16,TN,Tài sản
+134,4. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng,2,17,TN,Tài sản
+135,6. Phải thu ngắn hạn khác,2,18,TN,Tài sản
+136,7. Dự phòng phải thu ngắn hạn khó đòi (*),2,19,TN,Tài sản
+137,8. Tài sản thiếu chờ xử lý,2,20,TN,Tài sản
+140,IV. Hàng tồn kho,1,21,TN,Tài sản
+141,1. Hàng tồn kho,2,22,TN,Tài sản
+149,2. Dự phòng giảm giá hàng tồn kho (*),2,23,TN,Tài sản
+450,V. Tài sản sinh học ngắn hạn,1,24,TN,Tài sản
+451,1. Súc vật nuôi lấy sản phẩm một lần ngắn hạn,2,25,TN,Tài sản
+452,2. Cây trồng theo mùa vụ hoặc lấy sản phẩm một lần ngắn hạn,2,26,TN,Tài sản
+453,3. Dự phòng tổn thất tài sản sinh học ngắn hạn (*),2,27,TN,Tài sản
+150,VI. Tài sản ngắn hạn khác,1,28,TN,Tài sản
+151,1. Chi phí chờ phân bổ ngắn hạn,2,29,TN,Tài sản
+152,2. Thuế GTGT được khấu trừ,2,30,TN,Tài sản
+153,3. Thuế và các khoản khác phải thu của nhà nước,2,31,TN,Tài sản
+154,4. Giao dịch mua bán lại trái phiếu chính phủ,2,32,TN,Tài sản
+155,5. Tài sản ngắn hạn khác,2,33,TN,Tài sản
+200,B. TÀI SẢN DÀI HẠN,1,34,TN,Tài sản
+210,I. Các khoản phải thu dài hạn,1,35,TN,Tài sản
+211,1. Phải thu dài hạn của khách hàng,2,36,TN,Tài sản
+212,2. Trả trước cho người bán dài hạn,2,37,TN,Tài sản
+213,3. Vốn kinh doanh ở các đơn vị trực thuộc,2,38,TN,Tài sản
+214,4. Phải thu nội bộ dài hạn,2,39,TN,Tài sản
+215,5. Phải thu dài hạn khác,2,40,TN,Tài sản
+216,6. Dự phòng phải thu dài hạn khó đòi (*),2,41,TN,Tài sản
+220,II. Tài sản cố định,1,42,TN,Tài sản
+221,1. Tài sản cố định hữu hình,2,43,TN,Tài sản
+222,- Nguyên giá,3,44,TN,Tài sản
+223,- Giá trị hao mòn lũy kế (*),3,45,TN,Tài sản
+224,2. Tài sản cố định thuê tài chính,2,46,TN,Tài sản
+225,- Nguyên giá,3,47,TN,Tài sản
+226,- Giá trị hao mòn lũy kế (*),3,48,TN,Tài sản
+227,3. Tài sản cố định vô hình,2,49,TN,Tài sản
+228,- Nguyên giá,3,50,TN,Tài sản
+229,- Giá trị hao mòn lũy kế (*),3,51,TN,Tài sản
+441,III. Tài sản sinh học dài hạn,1,52,TN,Tài sản
+442,1. Súc vật nuôi cho sản phẩm định kỳ,2,53,TN,Tài sản
+443,a) Súc vật nuôi cho sản phẩm định kỳ chưa đến giai đoạn trưởng thành,3,54,TN,Tài sản
+444,b) Súc vật nuôi cho sản phẩm định kỳ đến giai đoạn trưởng thành,3,55,TN,Tài sản
+445,- Nguyên giá,3,56,TN,Tài sản
+446,- Giá trị khấu hao lũy kế (*),3,57,TN,Tài sản
+447,2. Súc vật nuôi lấy sản phẩm một lần dài hạn,2,58,TN,Tài sản
+448,3. Cây trồng theo mùa vụ hoặc lấy sản phẩm một lần dài hạn,2,59,TN,Tài sản
+449,4. Dự phòng tổn thất tài sản sinh học dài hạn (*),2,60,TN,Tài sản
+230,IV. Bất động sản đầu tư,1,61,TN,Tài sản
+231,- Nguyên giá,2,62,TN,Tài sản
+232,- Giá trị hao mòn lũy kế (*),2,63,TN,Tài sản
+240,V. Tài sản dở dang dài hạn,1,64,TN,Tài sản
+241,"1. Chi phí sản xuất, kinh doanh dở dang dài hạn",2,65,TN,Tài sản
+242,2. Chi phí xây dựng cơ bản dở dang,2,66,TN,Tài sản
+250,VI. Đầu tư tài chính dài hạn,1,67,TN,Tài sản
+251,1. Đầu tư vào công ty con,2,68,TN,Tài sản
+252,"2. Đầu tư vào công ty liên kết, liên doanh",2,69,TN,Tài sản
+253,3. Đầu tư góp vốn vào đơn vị khác,2,70,TN,Tài sản
+254,4. Dự phòng tổn thất đầu tư vào đơn vị (*),2,71,TN,Tài sản
+255,5. Đầu tư nắm giữ đến ngày đáo hạn dài hạn,2,72,TN,Tài sản
+454,6. Dự phòng đầu tư nắm giữ đến ngày đáo hạn dài hạn (*),2,73,TN,Tài sản
+260,VII. Tài sản dài hạn khác,1,74,TN,Tài sản
+261,1. Chi phí chờ phân bổ dài hạn,2,75,TN,Tài sản
+262,2. Tài sản thuế thu nhập hoãn lại,2,76,TN,Tài sản
+263,"3. Thiết bị, vật tư, phụ tùng thay thế dài hạn",2,77,TN,Tài sản
+268,4. Tài sản dài hạn khác,2,78,TN,Tài sản
+269,5. Lợi thế thương mại,2,79,TN,Tài sản
+270,TỔNG CỘNG TÀI SẢN,1,80,TN,Tài sản
+,NGUỒN VỐN,1,81,NV,Nguồn vốn
+300,C. NỢ PHẢI TRẢ,1,82,NV,Nguồn vốn
+310,I. Nợ ngắn hạn,1,83,NV,Nguồn vốn
+311,1. Phải trả người bán ngắn hạn,2,84,NV,Nguồn vốn
+312,2. Người mua trả tiền trước ngắn hạn,2,85,NV,Nguồn vốn
+455,"3. Phải trả cổ tức, lợi nhuận",2,86,NV,Nguồn vốn
+313,4. Thuế và các khoản phải nộp Nhà nước ngăn hạn,2,87,NV,Nguồn vốn
+314,5. Phải trả người lao động,2,88,NV,Nguồn vốn
+315,6. Chi phí phải trả ngắn hạn,2,89,NV,Nguồn vốn
+316,7. Phải trả nội bộ ngắn hạn,2,90,NV,Nguồn vốn
+317,8. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,2,91,NV,Nguồn vốn
+318,9. Doanh thu chờ phân bổ ngắn hạn,2,92,NV,Nguồn vốn
+319,10. Phải trả ngắn hạn khác,2,93,NV,Nguồn vốn
+320,11. Vay và nợ thuê tài chính ngăn hạn,2,94,NV,Nguồn vốn
+321,12. Dự phòng phải trả ngăn hạn,2,95,NV,Nguồn vốn
+322,"13. Quỹ khen thưởng, phúc lợi",2,96,NV,Nguồn vốn
+323,14. Quỹ bình ốn giá,2,97,NV,Nguồn vốn
+324,15. Giao dịch mua bán lại trái phiếu Chính phủ,2,98,NV,Nguồn vốn
+330,II. Nợ dài hạn,1,99,NV,Nguồn vốn
+331,1. Phải trả người bán dài hạn,2,100,NV,Nguồn vốn
+332,2. Người mua trả tiền trước dài hạn,2,101,NV,Nguồn vốn
+456,3. Thuế và các khoản phải nộp Nhà nước dài hạn,2,102,NV,Nguồn vốn
+333,4. Chi phí phải trả dài hạn,2,103,NV,Nguồn vốn
+334,5. Phải trả nội bộ về vốn kinh doanh,2,104,NV,Nguồn vốn
+335,6. Phải trả nội bộ dài hạn,2,105,NV,Nguồn vốn
+336,7. Doanh thu chờ phân bổ dài hạn,2,106,NV,Nguồn vốn
+337,8.Phải trả dài hạn khác,2,107,NV,Nguồn vốn
+338,9. Vay và nợ thuê tài chính dài hạn,2,108,NV,Nguồn vốn
+339,10. Trái phiếu chuyển đổi,2,109,NV,Nguồn vốn
+340,11. Cổ phiếu ưu đãi,2,110,NV,Nguồn vốn
+341,12. Thuế thu nhập hoãn lại phải trả,2,111,NV,Nguồn vốn
+342,13. Dự phòng phải trả dài hạn,2,112,NV,Nguồn vốn
+343,14. Quỹ phát triển khoa học và công nghệ,2,113,NV,Nguồn vốn
+400,D VỐN CHỦ SỞ HỮU,1,114,NV,Nguồn vốn
+410,I. Vốn chủ sở hữu,1,115,NV,Nguồn vốn
+411,1. Vốn góp của chủ sở hữu,2,116,NV,Nguồn vốn
+411a,- Cổ phiếu phổ thông có quyền biểu quyết,3,117,NV,Nguồn vốn
+411b,- Cổ phiếu ưu đãi,3,118,NV,Nguồn vốn
+412,2. Thặng dư vốn cổ phần,2,119,NV,Nguồn vốn
+413,3. Quyền chọn chuyển đổi trái phiếu,2,120,NV,Nguồn vốn
+414,4. Vốn khác của chủ sở hữu,2,121,NV,Nguồn vốn
+415,5. Cổ phiếu mua lại của chính mình,2,122,NV,Nguồn vốn
+416,6. Chênh lệch đánh giá lại tài sản,2,123,NV,Nguồn vốn
+417,7. Chênh lệch tỷ giá hối đoái,2,124,NV,Nguồn vốn
+418,8. Quỹ đầu tư phát triển,2,125,NV,Nguồn vốn
+420,9. Quỹ khác thuộc vốn chủ sở hữu,2,126,NV,Nguồn vốn
+421,10. Lợi nhuận sau thuế chưa phân phối,2,127,NV,Nguồn vốn
+421a,- LNST chưa phân phối lũy kế đến cuối kỳ trước,3,128,NV,Nguồn vốn
+421b,- LNST chưa phân phối kỳ này,3,129,NV,Nguồn vốn
+429,11. Lợi ích cổ đông không kiểm soát,2,130,NV,Nguồn vốn
+430,II. Nguồn kinh phí và quỹ khác (430),1,131,NV,Nguồn vốn
+431,1. Nguồn kinh phí (431),2,132,NV,Nguồn vốn
+432,2. Nguồn kinh phí đã hình thành TSCĐ (432),2,133,NV,Nguồn vốn
+440,TỔNG CỘNG NGUỒN VỐN,1,134,NV,Nguồn vốn

@@ -1,0 +1,734 @@
+{
+    "isSuccess": true,
+    "value": {
+        "templace": [
+            {
+                "lever": 1,
+                "number": 1,
+                "code": "1",
+                "name": "1. Doanh thu bán hàng và cung cấp dịch vụ",
+                "static": false
+            },
+            {
+                "lever": 2,
+                "number": 2,
+                "code": "2",
+                "name": "2. Các khoản giảm trừ doanh thu",
+                "static": false
+            },
+            {
+                "lever": 10,
+                "number": 3,
+                "code": "10",
+                "name": "3. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+                "static": false
+            },
+            {
+                "lever": 11,
+                "number": 4,
+                "code": "11",
+                "name": "4. Giá vốn hàng bán",
+                "static": false
+            },
+            {
+                "lever": 20,
+                "number": 5,
+                "code": "20",
+                "name": "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+                "static": false
+            },
+            {
+                "lever": 21,
+                "number": 6,
+                "code": "21",
+                "name": "6. Lãi/Lỗ của hoạt động bán, thanh lý bất động sản đầu tư",
+                "static": false
+            },
+            {
+                "lever": 2,
+                "number": 7,
+                "code": "22",
+                "name": "7. Doanh thu hoạt động tài chính",
+                "static": false
+            },
+            {
+                "lever": 22,
+                "number": 8,
+                "code": "23",
+                "name": "8. Chi phí tài chính",
+                "static": false
+            },
+            {
+                "lever": 23,
+                "number": 9,
+                "code": "24",
+                "name": "- Trong đó :Chi phí lãi vay",
+                "static": false
+            },
+            {
+                "lever": 24,
+                "number": 10,
+                "code": "27",
+                "name": "- Phần lãi/lỗ trong công ty liên doanh, liên kết",
+                "static": false
+            },
+            {
+                "lever": 25,
+                "number": 11,
+                "code": "25",
+                "name": "9. Chi phí bán hàng",
+                "static": false
+            },
+            {
+                "lever": 26,
+                "number": 12,
+                "code": "26",
+                "name": "10. Chi phí quản lý doanh nghiệp",
+                "static": false
+            },
+            {
+                "lever": 30,
+                "number": 13,
+                "code": "30",
+                "name": "11. Lợi nhuận thuần từ hoạt động kinh doanh",
+                "static": false
+            },
+            {
+                "lever": 31,
+                "number": 14,
+                "code": "31",
+                "name": "12. Thu nhập khác",
+                "static": false
+            },
+            {
+                "lever": 32,
+                "number": 15,
+                "code": "32",
+                "name": "13. Chi phí khác",
+                "static": false
+            },
+            {
+                "lever": 40,
+                "number": 16,
+                "code": "40",
+                "name": "14. Lợi nhuận khác",
+                "static": false
+            },
+            {
+                "lever": 50,
+                "number": 17,
+                "code": "50",
+                "name": "15. Tổng lợi nhuận kế toán trước thuế",
+                "static": false
+            },
+            {
+                "lever": 51,
+                "number": 18,
+                "code": "51",
+                "name": "16. Chi phí thuế TNDN hiện hành",
+                "static": false
+            },
+            {
+                "lever": 52,
+                "number": 19,
+                "code": "52",
+                "name": "17. Chi phí thuế TNDN hoãn lại",
+                "static": false
+            },
+            {
+                "lever": 60,
+                "number": 20,
+                "code": "60",
+                "name": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+                "static": false
+            },
+            {
+                "lever": 61,
+                "number": 21,
+                "code": "61",
+                "name": "- Lợi nhuận sau thuế của cổ đông của Công ty mẹ",
+                "static": false
+            },
+            {
+                "lever": 62,
+                "number": 22,
+                "code": "62",
+                "name": "- Lợi ích của cổ đông thiểu số",
+                "static": false
+            },
+            {
+                "lever": 70,
+                "number": 23,
+                "code": "70",
+                "name": "19. Lãi cơ bản trên cổ phiếu (Đồng/1 cổ phiếu)",
+                "static": false
+            },
+            {
+                "lever": 71,
+                "number": 24,
+                "code": "71",
+                "name": "20. Lãi suy giảm trên cổ phiếu (Đồng/1 cổ phiếu)",
+                "static": false
+            }
+        ],
+        "count": 20,
+        "unit": null,
+        "listType": [
+            {
+                "name": "Bản cân đối kế toán",
+                "code": "CDKT"
+            },
+            {
+                "name": "Kết quả kinh doanh",
+                "code": "KQKD"
+            },
+            {
+                "name": "Lưu chuyển tiền tệ trực tiếp",
+                "code": "LCTTTT"
+            },
+            {
+                "name": "Lưu chuyển tiền tệ gián tiếp",
+                "code": "LCTTGT"
+            }
+        ],
+        "type": "KQKD",
+        "listTimeType": [
+            {
+                "name": "Quý",
+                "code": "QUY"
+            },
+            {
+                "name": "Năm",
+                "code": "NAM"
+            },
+            {
+                "name": "Lũy kế",
+                "code": "LUYKE"
+            }
+        ],
+        "timeType": "NAM",
+        "data": [
+            {
+                "symbol": "HPG",
+                "year": 2025,
+                "quater": 0,
+                "type": "HK",
+                "content": "Đã kiểm toán",
+                "time": "2025",
+                "data": [
+                    {
+                        "code": "1",
+                        "value": 158332317934212,
+                        "static": false
+                    },
+                    {
+                        "code": "2",
+                        "value": 2216223315730,
+                        "static": false
+                    },
+                    {
+                        "code": "10",
+                        "value": 156116094618482,
+                        "static": false
+                    },
+                    {
+                        "code": "11",
+                        "value": 131618306435300,
+                        "static": false
+                    },
+                    {
+                        "code": "20",
+                        "value": 24497788183182,
+                        "static": false
+                    },
+                    {
+                        "code": "21",
+                        "value": 2081789823040,
+                        "static": false
+                    },
+                    {
+                        "code": "22",
+                        "value": 4603575989190,
+                        "static": false
+                    },
+                    {
+                        "code": "23",
+                        "value": 3114855868974,
+                        "static": false
+                    },
+                    {
+                        "code": "24",
+                        "value": 0,
+                        "static": false
+                    },
+                    {
+                        "code": "27",
+                        "value": 0,
+                        "static": false
+                    },
+                    {
+                        "code": "25",
+                        "value": 2633630711908,
+                        "static": false
+                    },
+                    {
+                        "code": "26",
+                        "value": 1436537357489,
+                        "static": false
+                    },
+                    {
+                        "code": "30",
+                        "value": 17905833947635,
+                        "static": false
+                    },
+                    {
+                        "code": "31",
+                        "value": 305593357911,
+                        "static": false
+                    },
+                    {
+                        "code": "32",
+                        "value": 170835327666,
+                        "static": false
+                    },
+                    {
+                        "code": "40",
+                        "value": 134758030245,
+                        "static": false
+                    },
+                    {
+                        "code": "50",
+                        "value": 18040591977880,
+                        "static": false
+                    },
+                    {
+                        "code": "51",
+                        "value": 2574223834884,
+                        "static": false
+                    },
+                    {
+                        "code": "52",
+                        "value": -48563428610,
+                        "static": false
+                    },
+                    {
+                        "code": "60",
+                        "value": 15514931571606,
+                        "static": false
+                    },
+                    {
+                        "code": "61",
+                        "value": 15453174006223,
+                        "static": false
+                    },
+                    {
+                        "code": "62",
+                        "value": 61757565383,
+                        "static": false
+                    },
+                    {
+                        "code": "70",
+                        "value": 1973,
+                        "static": false
+                    },
+                    {
+                        "code": "71",
+                        "value": 0,
+                        "static": false
+                    }
+                ]
+            },
+            {
+                "symbol": "HPG",
+                "year": 2024,
+                "quater": 0,
+                "type": "HK",
+                "content": "Đã kiểm toán",
+                "time": "2024",
+                "data": [
+                    {
+                        "code": "1",
+                        "value": 140561387448572,
+                        "static": false
+                    },
+                    {
+                        "code": "2",
+                        "value": 1706275317185,
+                        "static": false
+                    },
+                    {
+                        "code": "10",
+                        "value": 138855112131387,
+                        "static": false
+                    },
+                    {
+                        "code": "11",
+                        "value": 120357563003703,
+                        "static": false
+                    },
+                    {
+                        "code": "20",
+                        "value": 18497549127684,
+                        "static": false
+                    },
+                    {
+                        "code": "21",
+                        "value": 2618917240287,
+                        "static": false
+                    },
+                    {
+                        "code": "22",
+                        "value": 3966636074605,
+                        "static": false
+                    },
+                    {
+                        "code": "23",
+                        "value": 2287360810880,
+                        "static": false
+                    },
+                    {
+                        "code": "24",
+                        "value": 0,
+                        "static": false
+                    },
+                    {
+                        "code": "27",
+                        "value": 0,
+                        "static": false
+                    },
+                    {
+                        "code": "25",
+                        "value": 2337308685264,
+                        "static": false
+                    },
+                    {
+                        "code": "26",
+                        "value": 1545516022772,
+                        "static": false
+                    },
+                    {
+                        "code": "30",
+                        "value": 13267005585330,
+                        "static": false
+                    },
+                    {
+                        "code": "31",
+                        "value": 1159769685093,
+                        "static": false
+                    },
+                    {
+                        "code": "32",
+                        "value": 733273009245,
+                        "static": false
+                    },
+                    {
+                        "code": "40",
+                        "value": 426496675848,
+                        "static": false
+                    },
+                    {
+                        "code": "50",
+                        "value": 13693502261178,
+                        "static": false
+                    },
+                    {
+                        "code": "51",
+                        "value": 1765806007240,
+                        "static": false
+                    },
+                    {
+                        "code": "52",
+                        "value": -92327367333,
+                        "static": false
+                    },
+                    {
+                        "code": "60",
+                        "value": 12020023621271,
+                        "static": false
+                    },
+                    {
+                        "code": "61",
+                        "value": 12021443836074,
+                        "static": false
+                    },
+                    {
+                        "code": "62",
+                        "value": -1420214803,
+                        "static": false
+                    },
+                    {
+                        "code": "70",
+                        "value": 1751,
+                        "static": false
+                    },
+                    {
+                        "code": "71",
+                        "value": 0,
+                        "static": false
+                    }
+                ]
+            },
+            {
+                "symbol": "HPG",
+                "year": 2023,
+                "quater": 0,
+                "type": "HK",
+                "content": "Đã kiểm toán",
+                "time": "2023",
+                "data": [
+                    {
+                        "code": "1",
+                        "value": 120355231616139,
+                        "static": false
+                    },
+                    {
+                        "code": "2",
+                        "value": 1402203722485,
+                        "static": false
+                    },
+                    {
+                        "code": "10",
+                        "value": 118953027893654,
+                        "static": false
+                    },
+                    {
+                        "code": "11",
+                        "value": 106015187198082,
+                        "static": false
+                    },
+                    {
+                        "code": "20",
+                        "value": 12937840695572,
+                        "static": false
+                    },
+                    {
+                        "code": "21",
+                        "value": 3173086404949,
+                        "static": false
+                    },
+                    {
+                        "code": "22",
+                        "value": 5191511844389,
+                        "static": false
+                    },
+                    {
+                        "code": "23",
+                        "value": 3585077683881,
+                        "static": false
+                    },
+                    {
+                        "code": "24",
+                        "value": 0,
+                        "static": false
+                    },
+                    {
+                        "code": "27",
+                        "value": 0,
+                        "static": false
+                    },
+                    {
+                        "code": "25",
+                        "value": 1961362129952,
+                        "static": false
+                    },
+                    {
+                        "code": "26",
+                        "value": 1307290336873,
+                        "static": false
+                    },
+                    {
+                        "code": "30",
+                        "value": 7650762789307,
+                        "static": false
+                    },
+                    {
+                        "code": "31",
+                        "value": 771973465495,
+                        "static": false
+                    },
+                    {
+                        "code": "32",
+                        "value": 630007511629,
+                        "static": false
+                    },
+                    {
+                        "code": "40",
+                        "value": 141965953866,
+                        "static": false
+                    },
+                    {
+                        "code": "50",
+                        "value": 7792728743173,
+                        "static": false
+                    },
+                    {
+                        "code": "51",
+                        "value": 1073551888059,
+                        "static": false
+                    },
+                    {
+                        "code": "52",
+                        "value": -81211459967,
+                        "static": false
+                    },
+                    {
+                        "code": "60",
+                        "value": 6800388315081,
+                        "static": false
+                    },
+                    {
+                        "code": "61",
+                        "value": 6835064334356,
+                        "static": false
+                    },
+                    {
+                        "code": "62",
+                        "value": -34676019275,
+                        "static": false
+                    },
+                    {
+                        "code": "70",
+                        "value": 1117,
+                        "static": false
+                    },
+                    {
+                        "code": "71",
+                        "value": 0,
+                        "static": false
+                    }
+                ]
+            },
+            {
+                "symbol": "HPG",
+                "year": 2022,
+                "quater": 0,
+                "type": "HK",
+                "content": "Đã kiểm toán",
+                "time": "2022",
+                "data": [
+                    {
+                        "code": "1",
+                        "value": 142770810676858,
+                        "static": false
+                    },
+                    {
+                        "code": "2",
+                        "value": 1361536216226,
+                        "static": false
+                    },
+                    {
+                        "code": "10",
+                        "value": 141409274460632,
+                        "static": false
+                    },
+                    {
+                        "code": "11",
+                        "value": 124645848221080,
+                        "static": false
+                    },
+                    {
+                        "code": "20",
+                        "value": 16763426239552,
+                        "static": false
+                    },
+                    {
+                        "code": "21",
+                        "value": 3743650707331,
+                        "static": false
+                    },
+                    {
+                        "code": "22",
+                        "value": 7026723285241,
+                        "static": false
+                    },
+                    {
+                        "code": "23",
+                        "value": 3083638131818,
+                        "static": false
+                    },
+                    {
+                        "code": "24",
+                        "value": -1072667584,
+                        "static": false
+                    },
+                    {
+                        "code": "27",
+                        "value": 0,
+                        "static": false
+                    },
+                    {
+                        "code": "25",
+                        "value": 2665806087302,
+                        "static": false
+                    },
+                    {
+                        "code": "26",
+                        "value": 1019444279447,
+                        "static": false
+                    },
+                    {
+                        "code": "30",
+                        "value": 9794030627309,
+                        "static": false
+                    },
+                    {
+                        "code": "31",
+                        "value": 872024724926,
+                        "static": false
+                    },
+                    {
+                        "code": "32",
+                        "value": 743114224951,
+                        "static": false
+                    },
+                    {
+                        "code": "40",
+                        "value": 128910499975,
+                        "static": false
+                    },
+                    {
+                        "code": "50",
+                        "value": 9922941127284,
+                        "static": false
+                    },
+                    {
+                        "code": "51",
+                        "value": 1001020240086,
+                        "static": false
+                    },
+                    {
+                        "code": "52",
+                        "value": 477491832682,
+                        "static": false
+                    },
+                    {
+                        "code": "60",
+                        "value": 8444429054516,
+                        "static": false
+                    },
+                    {
+                        "code": "61",
+                        "value": 8483510554031,
+                        "static": false
+                    },
+                    {
+                        "code": "62",
+                        "value": -39081499515,
+                        "static": false
+                    },
+                    {
+                        "code": "70",
+                        "value": 1452,
+                        "static": false
+                    },
+                    {
+                        "code": "71",
+                        "value": 0,
+                        "static": false
+                    }
+                ]
+            }
+        ]
+    },
+    "errors": []
+}

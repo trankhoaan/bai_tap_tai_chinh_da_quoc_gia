@@ -1,0 +1,25 @@
+item_code,item_name,level,order_num,section_code,section_name
+1,1. Doanh thu bán hàng và cung cấp dịch vụ,1,1,KQKD,Kết quả kinh doanh
+2,2. Các khoản giảm trừ doanh thu,2,2,KQKD,Kết quả kinh doanh
+10,3. Doanh thu thuần về bán hàng và cung cấp dịch vụ,10,3,KQKD,Kết quả kinh doanh
+11,4. Giá vốn hàng bán,11,4,KQKD,Kết quả kinh doanh
+20,5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ,20,5,KQKD,Kết quả kinh doanh
+21,"6. Lãi/Lỗ của hoạt động bán, thanh lý bất động sản đầu tư",21,6,KQKD,Kết quả kinh doanh
+22,7. Doanh thu hoạt động tài chính,2,7,KQKD,Kết quả kinh doanh
+23,8. Chi phí tài chính,22,8,KQKD,Kết quả kinh doanh
+24,- Trong đó :Chi phí lãi vay,23,9,KQKD,Kết quả kinh doanh
+27,"- Phần lãi/lỗ trong công ty liên doanh, liên kết",24,10,KQKD,Kết quả kinh doanh
+25,9. Chi phí bán hàng,25,11,KQKD,Kết quả kinh doanh
+26,10. Chi phí quản lý doanh nghiệp,26,12,KQKD,Kết quả kinh doanh
+30,11. Lợi nhuận thuần từ hoạt động kinh doanh,30,13,KQKD,Kết quả kinh doanh
+31,12. Thu nhập khác,31,14,KQKD,Kết quả kinh doanh
+32,13. Chi phí khác,32,15,KQKD,Kết quả kinh doanh
+40,14. Lợi nhuận khác,40,16,KQKD,Kết quả kinh doanh
+50,15. Tổng lợi nhuận kế toán trước thuế,50,17,KQKD,Kết quả kinh doanh
+51,16. Chi phí thuế TNDN hiện hành,51,18,KQKD,Kết quả kinh doanh
+52,17. Chi phí thuế TNDN hoãn lại,52,19,KQKD,Kết quả kinh doanh
+60,18. Lợi nhuận sau thuế thu nhập doanh nghiệp,60,20,KQKD,Kết quả kinh doanh
+61,- Lợi nhuận sau thuế của cổ đông của Công ty mẹ,61,21,KQKD,Kết quả kinh doanh
+62,- Lợi ích của cổ đông thiểu số,62,22,KQKD,Kết quả kinh doanh
+70,19. Lãi cơ bản trên cổ phiếu (Đồng/1 cổ phiếu),70,23,KQKD,Kết quả kinh doanh
+71,20. Lãi suy giảm trên cổ phiếu (Đồng/1 cổ phiếu),71,24,KQKD,Kết quả kinh doanh

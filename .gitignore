@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database / SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+
+# dbt
+dbt/target/
+dbt/logs/
+dbt/dbt_packages/
+dbt/.user.yml
+
+# Excel outputs (nếu muốn commit file excel mẫu thì có thể bỏ dòng dưới)
+# *.xlsx

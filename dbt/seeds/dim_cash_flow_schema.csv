@@ -1,0 +1,43 @@
+item_code,item_name,level,order_num,section_code,section_name
+HDKD_1,Lưu chuyển tiền từ ĐH kinh doanh,1,1,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_2,1. Lợi nhuận trước thuế,1,2,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_3,2. Điều chỉnh cho các khoản,1,3,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_4,- Khấu hao TSCĐ và BĐSĐT,2,4,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_5,- Các khoản dự phòng,2,5,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_6,"- Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",2,6,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_7,"- Lãi, lỗ từ hoạt động đầu tư",2,7,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_8,- Chi phí lãi vay,2,8,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_9,- Các khoản điều chỉnh khác,2,9,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_10,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,1,10,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_11,"- Tăng, giảm các khoản phải thu",2,11,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_12,"- Tăng, giảm hàng tồn kho",2,12,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_13,"- Tăng, giảm các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",2,13,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_14,"- Tăng, giảm chi phí trả trước",2,14,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_15,"- Tăng, giảm chứng khoán kinh doanh",2,15,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_16,- Tiền lãi vay đã trả,2,16,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_17,- Thuế thu nhập doanh nghiệp đã nộp,2,17,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_18,- Tiền thu khác từ hoạt động kinh doanh,2,18,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_19,- Tiền chi khác cho hoạt động kinh doanh,2,19,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDKD_20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,1,20,HDKD,Lưu chuyển tiền từ ĐH kinh doanh
+HDDT_21,Lưu chuyển tiền từ HĐ đầu tư,1,21,HDDT,Lưu chuyển tiền từ HĐ đầu tư
+HDDT_22,"1.Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",1,22,HDDT,Lưu chuyển tiền từ HĐ đầu tư
+HDDT_23,"2.Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",1,23,HDDT,Lưu chuyển tiền từ HĐ đầu tư
+HDDT_24,"3.Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",1,24,HDDT,Lưu chuyển tiền từ HĐ đầu tư
+HDDT_25,"4.Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",1,25,HDDT,Lưu chuyển tiền từ HĐ đầu tư
+HDDT_26,5.Tiền chi đầu tư góp vốn vào đơn vị khác,1,26,HDDT,Lưu chuyển tiền từ HĐ đầu tư
+HDDT_27,6.Tiền thu hồi đầu tư góp vốn vào đơn vị khác,1,27,HDDT,Lưu chuyển tiền từ HĐ đầu tư
+HDDT_28,"7.Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",1,28,HDDT,Lưu chuyển tiền từ HĐ đầu tư
+HDDT_29,Lưu chuyển tiền thuần từ hoạt động đầu tư,1,29,HDDT,Lưu chuyển tiền từ HĐ đầu tư
+HDTC_30,Lưu chuyển tiền từ HĐ tài chính,1,30,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_31,"1.Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",2,31,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_32,"2.Tiền trả lại vón góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",2,32,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_33,3.Tiền thu từ đi vay,2,33,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_34,4.Tiền chi trả nợ gốc vay,2,34,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_35,5.Tiền chi trả nợ gốc thuê tài chính,2,35,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_36,"6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",2,36,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_37,7. Tiền thu từ vốn góp của cổ đông không kiểm soát,2,37,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_38,Lưu chuyển tiền thuần từ hoạt động tài chính,1,38,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_39,Lưu chuyển tiền thuần trong kỳ (50 = 20+30+40),1,39,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_40,Tiền và tương đương tiền đầu kỳ (60),1,40,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_41,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,2,41,HDTC,Lưu chuyển tiền từ HĐ tài chính
+HDTC_42,Tiền và tương đương tiền cuối kỳ (70 = 50+60+61),1,42,HDTC,Lưu chuyển tiền từ HĐ tài chính
